@@ -1,2 +1,2 @@
 # auth-using-jwt
-This Is RBAC(role based authentication ) without using any packages or tools. Ill update the frontend .
+This Is RBAC(role based authentication ) Only using jwt. Ill update the frontend and improve it once I learn more.
