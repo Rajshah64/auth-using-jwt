@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 require('dotenv').config()
 
-URL= "mongodb+srv://rajshah:rajshah1234@cluster0.t8cbi.mongodb.net/authDB?retryWrites=true&w=majority&appName=Cluster0"
 
 async function dbConnect() {
     mongoose
